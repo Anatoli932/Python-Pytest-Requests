@@ -17,13 +17,13 @@
 Ожидаемый ответ: 
 * response `status code` = 200
 * в ответе в `json` приходит корректное поле `trainer_name`
-* поле ответе в `json` приходит корректное поле `trainer_id` 
+* в ответе приходит корректное поле id в json
 
 ## Детали реализации
 
 1. Автотесты написаны с применением PyTest
 2. Используется библиотека Requests
-3. Работа с фикстурой
+3. Параметризированные тесты с использованием декоратора
 
 ![image](https://raw.githubusercontent.com/German-D/Python-Pytest-Requests/main/static/pytest.png)
 
