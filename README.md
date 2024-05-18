@@ -9,15 +9,15 @@
 Автоматизировать часть проверок регресса с помощью Pytest и Requests
 
 ## Тест-кейсы, которые автоматизировали
-* Создание покемона POST /pokemons
-* Смена имени покемона PUT /pokemons
-* Поймать покемона в покебол POST /trainers/add_pokeball
-* Проверить выдачу ручки GET /trainers
+* Создание покемона `POST /pokemons`
+* Смена имени покемона `PUT /pokemons`
+* Поймать покемона в покебол `POST /trainers/add_pokeball`
+* Проверить выдачу ручки `GET /trainers`
 
 Ожидаемый ответ: 
-* response status code = 200
-* в ответе в json приходит корректное поле trainer_name 
-* поле ответе в json приходит корректное поле trainer_id   
+* response `status code` = 200
+* в ответе в `json` приходит корректное поле `trainer_name`
+* поле ответе в `json` приходит корректное поле `trainer_id` 
 
 ## Детали реализации
 
