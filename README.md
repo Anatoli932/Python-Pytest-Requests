@@ -12,7 +12,7 @@
 * Создание покемона `POST /pokemons`
 * Смена имени покемона `PUT /pokemons`
 * Поймать покемона в покебол `POST /trainers/add_pokeball`
-* Проверить выдачу ручки `GET /trainers`
+* Проверить ответ метода `GET /trainers`
 
 Ожидаемый ответ: 
 * response `status code` = 200
