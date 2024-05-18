@@ -1,2 +1,2 @@
 # Python-Pytest-Requests
-Автотесты на API на pytest + requests
+Автотесты API на pytest + requests
