@@ -25,7 +25,7 @@
 2. Используется библиотека Requests
 3. Работа с фикстурой
 
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/baseUrl.png)
+![image](https://raw.githubusercontent.com/German-D/Python-Pytest-Requests/main/static/pytest.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
